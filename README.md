@@ -6,13 +6,14 @@ Skelbimų web aplikacija
 
 Klonuokite repozitoriją:
 
-git clone https://github.com/username/repository-name.git
+git clone [https://github.com/username/repository-name.git]
 
 Eikite į projekto aplanką:
 
-cd repository-name
+Egzamino_uzduotis
 
 Įdiekite priklausomybes:
+
 npm install
 
 Paleidimas
@@ -20,7 +21,7 @@ Paleiskite aplikaciją:
 
 npm run dev
 
-Atidarykite naršyklę ir eikite į http://localhost:3000 (arba kitą nurodytą adresą).
+Pasileisi nuorodą.
 
 Prisijungimo Duomenys
 
